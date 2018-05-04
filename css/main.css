@@ -1,0 +1,25 @@
+.container{
+	max-width:720px;
+}
+
+.date{
+	font-weight: bold;
+}
+
+.res-item{
+
+
+}
+
+.bullet{
+	margin-left: 20px;
+	float:left;
+}
+
+.desc {
+	width: 80%;
+}
+
+li{
+	margin-bottom:8px;
+}
